@@ -72,7 +72,7 @@
 >2. Launch the application and provide the URL to share the application. Your
 >application should look like the following:
 >
->![mod-21-ref-image](https://github.com/RAC-Git-Hub/sms_spam_detector/blob/main/Resources/mod-21-ref-image.png)
+>![mod-21-ref-image-1](https://github.com/RAC-Git-Hub/sms_spam_detector/blob/main/Resources/mod-21-ref-image-1.png)
 >
 >
 >3. Use the following text messages to test your aplication.
