@@ -56,10 +56,10 @@
 >-  Use a conditional statement that determines if the text message is "ham" or
 >   “spam”.
 >
->-  -   If the message is “ham”, the function should return the following
+>   -   If the message is “ham”, the function should return the following
 >       message: f'The text message: "{text}", is not spam.'
 >
->-  -   If the message is spam, the function should return the following
+>   -   If the message is spam, the function should return the following
 >       message: f'The text message: "{text}", is spam.'
 >
 >
