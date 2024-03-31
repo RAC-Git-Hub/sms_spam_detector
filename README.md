@@ -51,14 +51,16 @@
 >Use the sms_prediction function to predict the classification of a new text by
 >doing the following:
 >
+>-  Create a variable that will hold the prediction of a new text.
+>
 >-  Use a conditional statement that determines if the text message is "ham" or
 >   “spam”.
 >
->-- If the message is “ham”, the function should return the following message:
->   f'The text message: "{text}", is not spam.'
+>-  -   If the message is “ham”, the function should return the following
+>       message: f'The text message: "{text}", is not spam.'
 >
->-- If the message is spam, the function should return the following message:
->   f'The text message: "{text}", is spam.'
+>-  -   If the message is spam, the function should return the following
+>       message: f'The text message: "{text}", is spam.'
 >
 >
 >### Create the Gradio Interface Application
