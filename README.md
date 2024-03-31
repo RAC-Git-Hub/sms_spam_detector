@@ -23,7 +23,7 @@
 >-  Push these changes to GitHub or GitLab.
 >
 >
->## Instructions
+## Instructions
 >The starter files consist of the following files: 
 >gradio_sms_text_classification.ipynb, sms_text_classification_solution.ipynb,
 >and SMSSpamCollection.csv.
