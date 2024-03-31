@@ -41,7 +41,7 @@
 >
 >-  Build a pipeline to transform the test set to compare to the training set.
 >
->-Fit the model to the transformed training data and return model.
+>-  Fit the model to the transformed training data and return model.
 >
 >2. Load the SMSSpamCollection.csv into a DataFrame and call the
 >sms_classification function with the DataFrame, and set the result to the
@@ -69,8 +69,7 @@
 >2. Launch the application and provide the URL to share the application. Your
 >application should look like the following:
 >
->![mod-21-ref-image](https://github.com/RAC-Git-Hub/sms_spam_detector/blob/
-main/Resources/mod-21-ref-image.png)
+>![mod-21-ref-image](https://github.com/RAC-Git-Hub/sms_spam_detector/blob/main/Resources/mod-21-ref-image.png)
 >
 >
 >3. Use the following text messages to test your aplication.
