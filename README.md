@@ -16,7 +16,7 @@
 ## Getting Started
 >Before starting the Challenge, be sure to complete the following steps:
 >-  Create a new repository for this project called sms_spam_detector.
->   Do not add this homework assignment to an existing repository.
+>   **Do not add this homework assignment to an existing repository**.
 >-  Clone the new repository to your computer.
 >-  Inside your local Git repository, add the starter files from your file
 >downloads.
