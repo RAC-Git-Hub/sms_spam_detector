@@ -69,18 +69,12 @@
 >2. Launch the application and provide the URL to share the application. Your
 >application should look like the following:
 >
->   ![mod-21-ref-image](https://github.com/RAC-Git-Hub/sms_spam_detector/blob/main/Resources/mod-21-ref-image.png)
+>![mod-21-ref-image](https://github.com/RAC-Git-Hub/sms_spam_detector/blob/main/Resources/mod-21-ref-image.png)
 >
 >
 >3. Use the following text messages to test your aplication.
 >
->   1. You are a lucky winner of $5000!
->
->   2. You won 2 free tickets to the Super Bowl.
->
->   3. You won 2 free tickets to the Super Bowl. Text us to claim your prize.
->
->   4. Thanks for registering. Text 4343 to receive free updates on medicare.
+>![mod-21-ref-image-2](https://github.com/RAC-Git-Hub/sms_spam_detector/blob/main/Resources/mod-21-ref-image-2.png)
 >
 >
 ## Sources
