@@ -33,15 +33,16 @@
 >the sms_classification function in the gradio_sms_text_classification.ipynb
 >by doing the following:
 >
->-  Set the features variable to the text message column of the DataFrame.
+>    -  Set the features variable to the text message column of the DataFrame.
 >
->-  Set the target variable to the "label" column of the DataFrame.
+>    -  Set the target variable to the "label" column of the DataFrame.
 >
->-  Split data into training and testing and set the test_size to 33%.
+>    -  Split data into training and testing and set the test_size to 33%.
 >
->-  Build a pipeline to transform the test set to compare to the training set.
+>    -  Build a pipeline to transform the test set to compare to the training
+>       set.
 >
->-  Fit the model to the transformed training data and return model.
+>    -  Fit the model to the transformed training data and return model.
 >
 >2. Load the SMSSpamCollection.csv into a DataFrame and call the
 >sms_classification function with the DataFrame, and set the result to the
